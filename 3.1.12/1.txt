@@ -1,0 +1,4 @@
+total 10
+-rwxrwxrwx 1 root root    0 Mar 25 19:28 1.txt
+-rwxrwxrwx 1 root root 8848 Mar 25 19:12 a.out
+-rwxrwxrwx 1 root root  589 Mar 25 19:15 file.c
